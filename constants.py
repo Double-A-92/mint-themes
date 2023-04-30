@@ -14,6 +14,7 @@ x_hex_colors["Purple"] = "#8c6ec9"
 x_hex_colors["Red"] = "#c15b58"
 x_hex_colors["Sand"] = "#c8ac69"
 x_hex_colors["Teal"] = "#5aaa9a"
+x_hex_colors["Gecko"] = "#73ba25"
 
 X_RGB_ACCENTS = ["172, 205, 138", "#accd8a"]
 
@@ -28,6 +29,7 @@ x_rgb_colors["Purple"] = "140, 110, 201"
 x_rgb_colors["Red"] = "193, 91, 88"
 x_rgb_colors["Sand"] = "200, 172, 105"
 x_rgb_colors["Teal"] = "90, 170, 154"
+x_rgb_colors["Gecko"] = "115, 186, 37"
 
 
 # Mint-Y
@@ -63,3 +65,6 @@ y_hex_colors2["Sand"] = "#c5a07c"
 
 y_hex_colors1["Teal"] = "#199ca8"
 y_hex_colors2["Teal"] = "#199ca8"
+
+y_hex_colors1["Gecko"] = "#73ba25"
+y_hex_colors2["Gecko"] = "#73ba25"
